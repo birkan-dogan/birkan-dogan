@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML/CSS/JavaScript
 -  :computer: My goal is to be a full-stack developer
 - 🤔 I’m looking for help with interesting tools about web development.
-- :penguin: I'm also interesting in Linux, so we can talk about that too.
+- :penguin: I'm also interested in Linux, so we can talk about that too.
 - 💬 Ask me about anything you want to learn, so we can learn together.
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/birkando%C4%9Fan/) and mail: b.561birkan@gmail.com
 - 😄 Pronouns: He/His
