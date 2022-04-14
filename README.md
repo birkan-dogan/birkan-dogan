@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 🌱 I’m currently learning HTML|CSS|JavaScript|Python
 -  :computer: My goal is to be a full-stack developer
 - 🤔 I’m looking for help with interesting tools about web development.
 - :penguin: I'm also interested in Linux, so we can talk about that too.
