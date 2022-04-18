@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with interesting tools about web development.
 - :penguin: I'm also interested in Linux, so we can talk about that too.
 - 💬 Ask me about anything you want to learn, so we can learn together.
-- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/birkando%C4%9Fan/) and mail: b.561birkan@gmail.com
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/birkando%C4%9Fan/) and [mail](b.561birkan@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Sometimes I may think too much :)
 
