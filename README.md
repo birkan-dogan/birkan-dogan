@@ -33,7 +33,7 @@ I'm learning front-end development and back-end development. My goal is to be a 
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32"/><a href="https://www.github.com/birkan-dogan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/birkandoğan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/8c/f2/b5/8cf2b59a-2571-fdb2-a75c-499f6849b423/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x600wa.png" width="50" height="32" /></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
