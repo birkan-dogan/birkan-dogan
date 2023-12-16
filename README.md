@@ -2,7 +2,6 @@
 <h3 align="center">Full-stack Developer</h3>
 
 <div style="display: flex; align-items: center;"> 
-  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="10%" />
     <p>💻 Currently, I am working on <b>Next.js and Express.js</b></p>
     <p>🌱 I’m learning <b>React Native Development</b></p>
     <p>👨‍💻 I’m looking to collaborate on <b>front-end and back-end projects</b></p>
